@@ -1,0 +1,31 @@
+tags html
+
+<button>Clique</button>
+
+<html>Conteudo html</html>
+
+<head>Cabecalho do documento</head>
+
+<title>Titulo da pagina HTML</title>
+
+<body>Corpo do documento(pagina)</body>
+
+<h1>cabeçalho de nivel 1(1 a 6)</h1>
+
+<p>paragrafo</p>
+
+<div>Conteudo generico</div>
+
+<a href="link"></a>
+
+<span>conteudo generico em linha</span>
+
+<table>tabela</table>
+
+<ul>lista nao numerada</ul>
+
+<ol>lista numerada</ol>
+
+<li>Elemento da lista (<ul> ou <ol>)</li>
+
+<img src="imagem" alt="">
